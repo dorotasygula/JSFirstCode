@@ -18,21 +18,15 @@ function changeColor(mycolor)
 				
 				if ((mycolor=="red") || (mycolor=="blue")  || (mycolor=="yellow") || (mycolor=="green") || (mycolor=="pink"))
 				{
-					
-						
 						alert("good");
-						
-						
+								
 				}
 					
-					else
-					{
-						
-						alert("invalid");
-						
-									
-						
-					}
+				else
+				{
+						alert("invalid");					
+					
+				}
 					
 					
 			}
