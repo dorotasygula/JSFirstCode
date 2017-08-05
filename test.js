@@ -32,5 +32,11 @@ function changeColor(mycolor)
 			}
 			
 			
-		
+			function changeStyle(mypar) {
+				
+			var mypar= document.getElementById("input2").value; 
+ 
+            var text = document.getElementById(mypar).style.color = "blue";
+ 
+            }
 			
